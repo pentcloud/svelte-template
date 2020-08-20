@@ -3,7 +3,7 @@ import { modules } from './../index'
  
 const routes = {
     // Exact path
-    '/': modules.homeModule.Index,
+    '/': modules.FormModule.Home,
  
     // // Using named parameters, with last being optional
     // '/author/:first/:last?': Author,

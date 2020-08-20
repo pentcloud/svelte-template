@@ -1,5 +1,7 @@
-import Sample from './Sample.svelte'
+import ModuleHeaderOrganism from './ModuleHeader.svelte'
 
 export default {
-    Sample
+    ModuleHeader : ModuleHeaderOrganism
 }
+
+export const ModuleHeader = ModuleHeaderOrganism

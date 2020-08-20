@@ -1,5 +1,5 @@
-import homeModule from './home/home.module.js'
+import FormModule from './form/form.module.js'
 
 export default {
-    homeModule
+    FormModule
 }

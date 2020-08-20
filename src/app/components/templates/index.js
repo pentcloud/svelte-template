@@ -1,5 +1,7 @@
-import Sample from './Sample.svelte'
+import ModuleTemplate from './Module.svelte'
 
 export default {
-    Sample
+    Module : ModuleTemplate
 }
+
+export const Module = ModuleTemplate
